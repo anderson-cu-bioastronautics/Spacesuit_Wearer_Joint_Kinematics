@@ -1,0 +1,4 @@
+nintegration.c:55:6:OMEmean	48	static,ignoring_inline_asm
+nintegration.c:100:6:ArrShifter	16	static
+nintegration.c:114:6:Nintegration	72	static,ignoring_inline_asm
+nintegration.c:209:6:HAL_UART_TxCpltCallback	16	static

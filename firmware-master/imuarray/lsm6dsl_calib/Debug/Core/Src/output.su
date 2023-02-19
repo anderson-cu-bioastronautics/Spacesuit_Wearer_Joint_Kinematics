@@ -1,0 +1,2 @@
+output.c:17:6:SendData	24	static,ignoring_inline_asm
+output.c:55:6:HAL_UART_TxCpltCallback	16	static,ignoring_inline_asm

@@ -1,0 +1,15 @@
+ldm6dsl.c:21:6:Buffer_Init	24	static
+ldm6dsl.c:34:6:Calib_Buffer_Init	24	static
+ldm6dsl.c:64:10:FIFO_unRead	32	static
+ldm6dsl.c:80:6:chipSelection	16	static
+ldm6dsl.c:118:6:resetAll	16	static
+ldm6dsl.c:130:6:setupAll	16	static
+ldm6dsl.c:148:6:read_TEMP	32	static
+ldm6dsl.c:165:9:read_FIFO	24	static
+ldm6dsl.c:176:6:PEDO_config	72	static
+ldm6dsl.c:213:6:IMU_config	96	static
+ldm6dsl.c:245:6:IMU_reset	48	static
+ldm6dsl.c:271:6:TimeStamp_config	48	static
+ldm6dsl.c:292:6:INTTrigger	40	static
+ldm6dsl.c:316:6:FIFO_config	96	static
+ldm6dsl.c:347:5:signshort	16	static

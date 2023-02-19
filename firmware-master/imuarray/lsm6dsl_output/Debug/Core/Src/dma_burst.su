@@ -1,0 +1,3 @@
+dma_burst.c:31:6:HAL_SPI_TxRxCpltCallback	16	static
+dma_burst.c:56:6:DMA_FSM_BURST6	40	static
+dma_burst.c:97:6:DMA_FSM_BURST2	40	static

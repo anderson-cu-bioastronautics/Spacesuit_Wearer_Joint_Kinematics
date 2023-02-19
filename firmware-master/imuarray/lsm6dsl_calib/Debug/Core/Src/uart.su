@@ -1,0 +1,3 @@
+uart.c:25:6:MX_USART1_UART_Init	8	static
+uart.c:48:6:MX_USART2_UART_Init	8	static
+uart.c:67:6:MX_DMA_Init	16	static

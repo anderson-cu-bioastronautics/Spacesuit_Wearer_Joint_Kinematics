@@ -1,0 +1,5 @@
+spi.c:24:6:MX_SPI1_Init	8	static
+spi.c:45:6:MX_SPI1_Init_8BIT	8	static
+spi.c:69:6:spi_DMA_RX	24	static
+spi.c:78:6:spi_RX	32	static
+spi.c:88:6:spi_write	24	static
